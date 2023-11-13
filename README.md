@@ -1,5 +1,7 @@
 # Mortality-Rate-vs.-Economic-Strength
 
+link tot project: https://app.powerbi.com/groups/me/reports/964e4630-6411-40a6-8ca0-4d9f2b1a9b8f/ReportSection?ctid=73fdaf33-c382-449c-8822-c7a363cc5535&experience=power-bi
+
 Omschrijving:
 --
 In bijgevoegd Dashboard met bovenstaande als titel, wordt doormiddel van het gebruik van Bruto Binnenlands Product per inwoner (weergegeven in Dashboard als GDP per capita) en het percentage van kans op overlijden, het verband tussen de kans op overlijdensrisico aan hart- en vaatziekten, kanker en de welvaart van een land weergegeven. Dit verband wordt onder andere weergeven door een *bar chart* en door een *shape map*. Doormiddel van een *slicer* is het mogelijkheid om te filteren tussen continenten, eveneens als de verschillende jaartallen. Ook wordt het verschil weergeven tussen het overlijdensrisico in de armste landen versus de rijkste landen.
