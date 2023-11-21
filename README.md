@@ -1,6 +1,6 @@
 # Mortality-Rate-vs.-Economic-Strength
 
-link tot project: https://app.powerbi.com/groups/me/reports/964e4630-6411-40a6-8ca0-4d9f2b1a9b8f/ReportSection?ctid=73fdaf33-c382-449c-8822-c7a363cc5535&experience=power-bi
+link tot project: https://app.powerbi.com/reportEmbed?reportId=964e4630-6411-40a6-8ca0-4d9f2b1a9b8f&autoAuth=true&ctid=73fdaf33-c382-449c-8822-c7a363cc5535
 
 Omschrijving:
 --
